@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, i'm Oussama 👋</h1>
 
 <p align="center">
-  
+ <!-- 
   <a href="https://www.linkedin.com/in/belhadi-oussama-211174209/">
 ![icons8-linkedin-48](https://user-images.githubusercontent.com/91610919/190928689-49c82a3f-b565-4c8c-8867-ce9ac0dd443c.png)
   </a>
 
-   <!-- <a href=""><img src=""/></a>-->
+    <a href=""><img src=""/></a>-->
   
 </p>
 
