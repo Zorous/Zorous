@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, i'm Oussama Belhadi 👋
+
+
+
+- 🔭 I’m currently working on a students plateform
+- 🌱 I’m currently learning OOP PHP, MongoDB, UI/UX Design
+- 👯 I’m looking to collaborate on projects
+- 💬 Ask me about Data base management or any other related stuff
+- 📫 How to reach me: oussamabelhadi5@gmail.com
+
+
 
 <!--
-**Zorous/Zorous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
+
+- 🤔 I’m looking for help with ...
+
 -->
