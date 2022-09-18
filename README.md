@@ -3,8 +3,7 @@
 <p align="center">
   
   <a href="https://www.linkedin.com/in/belhadi-oussama-211174209/">
-    <img src="![image](https://user-images.githubusercontent.com/91610919/190928271-f22244a9-75a0-44dc-8ad5-5baf0e25460c.png)"/></a>
-  
+    ![image](https://user-images.githubusercontent.com/91610919/190928271-f22244a9-75a0-44dc-8ad5-5baf0e25460c.png)
   <a href=""><img src=""/></a>
   
 </p>
