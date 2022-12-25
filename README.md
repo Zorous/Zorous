@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about Data base management or any other related stuff
 - 📫 How to reach me: oussamabelhadi5@gmail.com
-- Portfolio : https://oussama-belhadi.netlify.app
+<!-- - Portfolio : https://oussama-belhadi.netlify.app -->
   
 </p>
 
