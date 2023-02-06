@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oussama Belhadi</h1>
 <h3 align="center">A passionate Full-stack Developer from Morocco</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zorous" alt="zorous" /></a> </p>
 
 - 🔭 I’m currently working on **a CMMS Project with LARAVEL**
 
