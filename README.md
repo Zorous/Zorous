@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **LARAVEL**
 
-- 👨‍💻 All of my projects are available at [https://oussama-belhadi.netlify.app](https://oussama-belhadi.netlify.app)
+- 👨‍💻 All of my projects are available here
 
 - 💬 Ask me about **React JS**
 
