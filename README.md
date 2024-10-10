@@ -1,21 +1,22 @@
 ![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/91610919/217021561-2300a7e8-0877-4928-b53d-23b8e1b46543.png)
-
-<h1 align="center">Hi 👋, I'm Oussama Belhadi <image src="https://avatars.githubusercontent.com/u/91610919?v=4" width="100px" /></h1>
+  
+<h1 align="center">
+  <image src="https://avatars.githubusercontent.com/u/91610919?v=4" width="50px" /> 
+    Hi 👋, I'm Oussama Belhadi </h1>
 
 <h3 align="center">A passionate Full-stack Developer from Morocco</h3>
 
-<div>
-<img  align="right" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400px" alt="cover"/>
-</div>
-- 🔭 I’m currently on an internship as a MERN Stack Developer
 
-- 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available here
+- 🔭 I’m currently on an Traininship as a Software Developer
+
+- 🌱 I’m currently learning **C# and React Native**
+
+- 👨‍💻 The majority of my personal projects are available here
 
 - 💬 Ask me about **MERN**, **LARAVEL & PHP**, **MySQL & MongoDB**
 
-- 📫 How to reach me **oussamabelhadi5@gmail.com**
+- 📫 How to reach me **1oussama.belhadi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
