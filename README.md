@@ -1,6 +1,7 @@
 ![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/91610919/217021561-2300a7e8-0877-4928-b53d-23b8e1b46543.png)
 
-<h1 align="center">Hi 👋, I'm Oussama Belhadi</h1>
+<h1 align="center">Hi 👋, I'm Oussama Belhadi <image src="https://avatars.githubusercontent.com/u/91610919?v=4" width="100px" /></h1>
+
 <h3 align="center">A passionate Full-stack Developer from Morocco</h3>
 
 <div>
