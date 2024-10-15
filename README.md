@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently on an Traininship as a Software Developer
+- 🔭 I’m currently a Software Developer Trainee
 
 - 🌱 I’m currently learning **C# and React Native**
 
