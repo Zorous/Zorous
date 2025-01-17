@@ -1,16 +1,17 @@
-<h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/91610919?v=4" width="50px" />
-  Hi 👋, I'm Oussama Belhadi
-</h1>
+![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/91610919/217021561-2300a7e8-0877-4928-b53d-23b8e1b46543.png)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://oussama-belhadi.me) [![](https://img.shields.io/badge/-@oussama_belhadi-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/oussama_belhadi) [![](https://img.shields.io/badge/-@Zorous-%23181717?style=flat-square&logo=github)](https://github.com/Zorous)
 
-<h3 align="center">A passionate Full-stack Developer</h3>
 
----
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙊𝙪𝙨𝙨𝙖𝙢𝙖 𝘽𝙚𝙡𝙝𝙖𝙙𝙞  
 
-## 🌐 My Portfolio
-🌍 **Check out my portfolio here: [oussama-belhadi.me](https://oussama-belhadi.me/)**
+ 
 
----
+𝑰 ❤️ 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+
+💻 𝑭𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 | ⚛ 𝑹𝒆𝒂𝒄𝒕 & 𝑹𝒆𝒂𝒄𝒕 𝑵𝒂𝒕𝒊𝒗𝒆 𝒆𝒙𝒑𝒆𝒓𝒕 | 🖋 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 & 𝑻𝒚𝒑𝒆𝑺𝒄𝒓𝒊𝒑𝒕 𝒇𝒂𝒏𝒂𝒕𝒊𝒄 | ☕ 𝑪𝒐𝒇𝒇𝒆𝒆 𝒍𝒐𝒗𝒆𝒓  
+
+💡 𝑰'𝒎 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒘𝒊𝒕𝒉 𝒎𝒐𝒅𝒆𝒓𝒏 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 𝒂𝒏𝒅 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒕𝒉𝒆 𝒋𝒐𝒖𝒓𝒏𝒆𝒚! 🚀
+
 
 
 ### 🛠 My Tech Stack  
@@ -50,13 +51,17 @@
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-%2320232a?style=flat-square) 
 ![Agile Methodologies](https://img.shields.io/badge/-Agile%20Methodologies-%2320232a?style=flat-square)  
 
----
+
 
 ## 🚀 Some of My Projects
+[![TechBible (NDA)](https://svg.bookmark.style/api?url=https://github.com/Zorous/TechBible-NDA-.git&mode=dark&style=horizontal)](https://github.com/Zorous/TechBible-NDA-.git)
 [![Chat Application with Firebase](https://svg.bookmark.style/api?url=https://github.com/Zorous/chat_application_with_firebase.git&mode=dark&style=horizontal)](https://github.com/Zorous/chat_application_with_firebase.git)
-[![ZIP Files Password Cracker](https://svg.bookmark.style/api?url=https://github.com/Zorous/ZIP_Files_Password_Cracker&mode=dark&style=horizontal)](https://github.com/Zorous/ZIP_Files_Password_Cracker)
+[![Students Platform with CV Generator](https://svg.bookmark.style/api?url=https://github.com/Zorous/Students_Plateform_with_CV_Generator.git&mode=dark&style=horizontal)](https://github.com/Zorous/Students_Plateform_with_CV_Generator.git)
+[![E-Shop](https://svg.bookmark.style/api?url=https://github.com/Zorous/E-Shop.git&mode=dark&style=horizontal)](https://github.com/Zorous/E-Shop.git)
+
+
 [![Agraf Web](https://svg.bookmark.style/api?url=https://github.com/Zorous/agraf-web&mode=dark&style=horizontal)](https://github.com/Zorous/agraf-web)
-[![React JS Books App](https://svg.bookmark.style/api?url=https://github.com/Zorous/React-JS-Books-App&mode=dark&style=horizontal)](https://github.com/Zorous/React-JS-Books-App)
+[![React JS Books Club](https://svg.bookmark.style/api?url=https://github.com/Zorous/React-JS-Books-App&mode=dark&style=horizontal)](https://github.com/Zorous/React-JS-Books-App)
 
 ---
 
