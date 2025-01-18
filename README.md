@@ -68,9 +68,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zorous&show_icons=true&theme=midnight-purple&count_private=true&cache_seconds=1800" alt="Oussama's GitHub Stats" style="display:inline-block; width:49%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zorous&theme=midnight-purple&layout=compact" alt="Top Languages" style="display:inline-block; width:49%;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zorous&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&cache_seconds=1800" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zorous&theme=midnight-purple&layout=compact&langs_count=10" alt="Top Languages" style="display:inline-block; width:40%;" />
 </div>
+
 
 ---
 
