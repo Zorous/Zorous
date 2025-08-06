@@ -1,5 +1,5 @@
 ![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/91610919/217021561-2300a7e8-0877-4928-b53d-23b8e1b46543.png)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://oussama-belhadi.me) [![](https://img.shields.io/badge/-@oussama_belhadi-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/oussama_belhadi) [![](https://img.shields.io/badge/-@Zorous-%23181717?style=flat-square&logo=github)](https://github.com/Zorous)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://oussama-belhadi.me) [![](https://img.shields.io/badge/-@Zorous-%23181717?style=flat-square&logo=github)](https://github.com/Zorous)
 
 
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙊𝙪𝙨𝙨𝙖𝙢𝙖 𝘽𝙚𝙡𝙝𝙖𝙙𝙞  
